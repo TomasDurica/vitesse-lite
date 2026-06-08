@@ -27,7 +27,7 @@
 
 - 🎨 [UnoCSS](https://github.com/antfu/unocss) - The instant on-demand atomic CSS engine.
 
-- 😃 Use icons from any icon sets in [Pure CSS](https://github.com/antfu/unocss/tree/main/packages/preset-icons)
+- 😃 Use icons from any icon sets in [Pure CSS](https://github.com/unocss/unocss/tree/main/packages-presets/preset-icons)
 
 - 🔥 Use the [new `<script setup>` style](https://github.com/vuejs/rfcs/pull/227)
 
